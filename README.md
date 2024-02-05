@@ -16,7 +16,7 @@ Este repositório contém um programa que coleta exercícios de vestibulares e a
 2. Exercícios em papel impresso previnem distrações com a internet e são menos nocivos para os olhos após horas acumuladas de estudo
 
 3. Pilhas de listas finalizadas servem como um indicador de progresso altamente motivador. exemplo:
-<img src='https://i.ibb.co/DKjNww8/Whats-App-Image-2024-02-05-at-8-46-36-PM.jpg' width='25'>
+<img src='https://i.ibb.co/DKjNww8/Whats-App-Image-2024-02-05-at-8-46-36-PM.jpg' width='500'>
 
 (Se possível, apoie o soexercícios.com.br para para que o site possa eventualmente ser consertado)
 
