@@ -25,7 +25,7 @@ erros = []
 def main():
     
     ponteiro_numquestao = 0
-    shutil.rmtree("imagens_extraidas_2")
+    shutil.rmtree("imagens_extraidas")
 
     for i in range(numPaginas1):  
         url = formatar_URL(primeiro_link, i)
@@ -46,7 +46,7 @@ def main():
             coletar_gabarito(driver, url2, ponteiro_numquestao)
             ponteiro_numquestao += 5
 
-    shutil.rmtree("imagens_modificadas_2")
+    shutil.rmtree("imagens_modificadas")
 
     criar_pdf(discursivas, questoes_com_erro, solucoes)
     
