@@ -23,7 +23,7 @@ Este repositório contém um programa que coleta exercícios de vestibulares e a
 
 1. __Instale python e pip__
 2. __Use o pip para instalar os pacotes listados em requirements.txt__
-3. __Extraia a pasta do script__
+3. __Baixe e extraia a pasta do script__
 4. __Configure suas prefências em config.py__
 5. __Rode questonator.py com o Python__
 
