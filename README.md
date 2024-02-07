@@ -1,5 +1,5 @@
 # Questonator
-Este repositório contém um programa que coleta exercícios de vestibulares e assuntos específicos selecionados no site soexercicios.com.br e gera uma lista em PDF com gabarito, te permitindo configurar preferências como a presença exclusiva questões discursivas ou objetivas
+Este repositório contém um programa que coleta exercícios de vestibulares e assuntos específicos selecionados no site soexercicios.com.br e gera uma lista em PDF com gabarito, te permitindo configurar preferências como a presença exclusiva de questões discursivas ou objetivas
 
 
 ## Por que fiz esse script?
